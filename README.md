@@ -1,1 +1,1 @@
-# demo-type-grpahQL
+# demo-type-grpahql
